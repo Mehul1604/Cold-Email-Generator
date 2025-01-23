@@ -91,7 +91,3 @@ This project is a Cold Email Generator that uses machine learning to extract job
   - `vectorstore/`: Contains the vector database files.
 - `.env`: Environment variables file.
 - `requirements.txt`: List of required Python packages.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
